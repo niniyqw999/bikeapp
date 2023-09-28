@@ -1,0 +1,18 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  geolib:
+    specifier: ^3.3.4
+    version: registry.npmmirror.com/geolib@3.3.4
+
+packages:
+
+  registry.npmmirror.com/geolib@3.3.4:
+    resolution: {integrity: sha512-EicrlLLL3S42gE9/wde+11uiaYAaeSVDwCUIv2uMIoRBfNJCn8EsSI+6nS3r4TCKDO6+RQNM9ayLq2at+oZQWQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/geolib/-/geolib-3.3.4.tgz}
+    name: geolib
+    version: 3.3.4
+    dev: false

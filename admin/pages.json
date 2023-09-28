@@ -1,0 +1,37 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "管理系统",
+				"navigationBarTextStyle": "white"
+			}
+		}
+	    ,{
+            "path" : "pages/userDetail/userDetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "用户轨迹管理",
+                "enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+            }
+            
+        }
+        ,{
+            "path" : "pages/trackDeatil/trackDeatil",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "轨迹详情",
+                "enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#1296db",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {}
+}

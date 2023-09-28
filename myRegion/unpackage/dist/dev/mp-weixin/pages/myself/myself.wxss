@@ -1,0 +1,34 @@
+
+.header {
+		width: 100%;
+		height: 500rpx;
+		background-color: #1296db;
+		border-radius: 5%;
+		margin-bottom: 40rpx;
+		box-shadow: 0 0 10rpx 2rpx;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+		text-align: center;
+		position: relative;
+}
+.menu {
+		width: 100%;
+		height: 100rpx;
+		background-color: white;
+		margin-top: 20rpx;
+		font-size: 40rpx;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+}
+.picture {
+		height: 200rpx;
+		width: 200rpx;
+		border-radius: 50%;
+		background-color: white;
+}
+page {
+		background-color: #f8f8f8;
+}

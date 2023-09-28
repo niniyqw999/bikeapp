@@ -1,0 +1,21 @@
+
+.Button {
+		display: flex;
+		align-items: center;
+		margin: 30rpx 0;
+}
+.bButton {
+		width: 300rpx;
+		height: 100rpx;
+		line-height: 100rpx;
+		border-radius: 20rpx;
+}
+
+	/* .sButton {
+		width: 90rpx;
+		height: 90rpx;
+		border-radius: 50%;
+	} */
+page {
+		background-color: #f8f8f8;
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "管理系统",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-card": "../../uni_modules/uni-card/components/uni-card/uni-card"
+  }
+}

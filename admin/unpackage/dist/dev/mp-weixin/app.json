@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/userDetail/userDetail",
+    "pages/trackDeatil/trackDeatil"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#1296db",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

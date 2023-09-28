@@ -1,0 +1,19 @@
+{
+    "id": "xlh-app-login",
+    "name": "login登录通用模块组件",
+    "displayName": "login登录通用模块组件",
+    "version": "1.0.0",
+    "description": "适用于各端的登录模块组件",
+    "keywords": [
+        "Login"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    },
+    "dependencies": {
+        "geolib": "^3.3.4"
+    }
+}

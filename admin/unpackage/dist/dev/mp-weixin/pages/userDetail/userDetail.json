@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "用户轨迹管理",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-card": "../../uni_modules/uni-card/components/uni-card/uni-card"
+  }
+}
